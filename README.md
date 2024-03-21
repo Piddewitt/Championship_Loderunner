@@ -1,5 +1,5 @@
 # Championship Loderunner
-Original Championship Lode Runner source
+Original Championship Lode Runner source code
 ## Directory location
 - **dox**
 - **npp**
