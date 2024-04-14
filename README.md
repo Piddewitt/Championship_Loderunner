@@ -1,5 +1,5 @@
 # Championship Loderunner
-Original Championship Lode Runner source code
+Commented source code of the C64 Championship Lode Runner Game - Including the copy protection
 ## Directory location
 - **dox**
 - **npp**
